@@ -1,6 +1,6 @@
 # WebViewScreenSaver
-[![Build](https://img.shields.io/github/workflow/status/liquidx/webviewscreensaver/CI)](https://github.com/liquidx/webviewscreensaver/actions)
-[![GitHub release](https://img.shields.io/github/v/release/liquidx/webviewscreensaver)](https://github.com/liquidx/webviewscreensaver/releases)
+[![Build](https://img.shields.io/github/workflow/status/janemiceli/web-page-screensaver-macos/CI)](https://github.com/janemiceli/web-page-screensaver-macos/actions)
+[![GitHub release](https://img.shields.io/github/v/release/janemiceli/web-page-screensaver-macos)](https://github.com/janemiceli/web-page-screensaver-macos/releases)
 
 A macOS screen saver that displays a web page or a series of web pages.
 
@@ -12,11 +12,11 @@ A macOS screen saver that displays a web page or a series of web pages.
 brew install --cask webviewscreensaver
 ```
 
-* Directly from the [releases](https://github.com/janemiceli/webviewscreensaver/releases) page. Unpack and double click to install.&#42;
+* Directly from the [releases](https://github.com/janemiceli/web-page-screensaver-macos/releases) page. Unpack and double click to install.&#42;
 
 * From source (requires [Xcode](https://developer.apple.com/xcode/)):
 ``` bash
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/janemiceli/webviewscreensaver/master/install-from-source.sh)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/janemiceli/web-page-screensaver-macos/master/install-from-source.sh)"
 ```
 
 **&#42;Note**: The package is **adhoc signed** (since v2.2.1, previously unsigned).
